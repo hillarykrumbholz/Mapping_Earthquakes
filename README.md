@@ -13,6 +13,7 @@ To visually show the differences between the magnitudes of earthquakes all over 
 
 ### Project Summary
 A map was created to display the placement of tectonic plates and the location of earthquakes from the past 7 days. Earthquake locations, and tectonic plate data were added as individual overlays, so that the user has an option to toggle off and on the data. In addition to multiple overlays, there are three map themes - Street, Satellite, and Dark - that the user can choose from for their preferred viewing option. 
+To make this map interactive, when the user clicks a marker there is a popup that displays the magnitude and location of each earthquake.  
 
 ### An image displaying the completed map
 ![map](https://github.com/hillarykrumbholz/Mapping_Earthquakes/blob/master/map_Challenge.png)
